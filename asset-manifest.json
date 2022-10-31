@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/pizza_website_react/static/js/main.54362417.js",
+    "static/media/pizza-3.jpg": "/pizza_website_react/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured-3.jpg": "/pizza_website_react/static/media/featured-3.66d68644270582e9ce8d.jpg",
+    "static/media/product-2.jpg": "/pizza_website_react/static/media/product-2.4c066971ce4367c6e0bc.jpg",
+    "static/media/product-1.jpg": "/pizza_website_react/static/media/product-1.36d084f3e4823b981b4b.jpg",
+    "static/media/dessert-1.jpg": "/pizza_website_react/static/media/dessert-1.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/dessert-3.jpg": "/pizza_website_react/static/media/dessert-3.c495c74278ec63462c5e.jpg",
+    "static/media/product-3.jpg": "/pizza_website_react/static/media/product-3.115cc32b63d9b7485e7e.jpg",
+    "static/media/dessert-2.jpg": "/pizza_website_react/static/media/dessert-2.badeecbe98eb1e099fce.jpg",
+    "index.html": "/pizza_website_react/index.html",
+    "main.54362417.js.map": "/pizza_website_react/static/js/main.54362417.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54362417.js"
+  ]
+}
